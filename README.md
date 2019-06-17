@@ -10,6 +10,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
+Follow this [link](https://github.com/ngrx/platform/tree/master/docs/schematics) to setup the ngrx libraries (ngrx/schematics)
+and [this](https://github.com/ngrx/platform/blob/master/docs/schematics/feature.md) to set up the ngrx Feature
+
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
