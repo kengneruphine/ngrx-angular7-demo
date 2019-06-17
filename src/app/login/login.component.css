@@ -1,0 +1,10 @@
+input {
+    text-align: center;
+    /* background-color: crimson; */
+    width:50%;
+    margin: 10px;
+}
+
+button {
+    background-color: darkblue;
+}
